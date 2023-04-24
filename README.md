@@ -7,6 +7,9 @@ ssh-keygen
 cd ~\.ssh
 #change directory to ssh folder
 
+cd ~/home/austing/.ssh/
+#(WSL) change directory to ssh folder
+
 cat id_rsa.pub
 #concatenates public key. Copy this and upload into https://github.com/settings/keys
 
